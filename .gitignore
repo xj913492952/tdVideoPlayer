@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+/.idea
+/captures
+.externalNativeBuild
+*.apk
+keyid
+# Project exclude paths
+/.github/
+/app/
+/doc/
+/gradle/
+/gsyVideoPlayer/
+/gsyVideoPlayer-armv5/
+/gsyVideoPlayer-armv7a/
+/gsyVideoPlayer-armv64/
+/gsyVideoPlayer-base/
+/gsyVideoPlayer-ex_so/
+/gsyVideoPlayer-exo_player2/
+/gsyVideoPlayer-java/
+/gsyVideoPlayer-proxy_cache/
+/gsyVideoPlayer-x86/
+/gsyVideoPlayer-x86_64/
+/img/
