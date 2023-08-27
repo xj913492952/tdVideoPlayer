@@ -10,7 +10,6 @@
 keyid
 # Project exclude paths
 /.github/
-/app/
 /doc/
 /gradle/
 /gsyVideoPlayer/
